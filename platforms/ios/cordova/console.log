@@ -43,3 +43,536 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-05-21 15:00:44.114 adhocgeo[32547:2181549] Received Event: deviceready
 2015-05-21 15:00:44.114 adhocgeo[32547:2181549] app starting
 2015-05-21 15:00:44.114 adhocgeo[32547:2181549] declare
+2015-05-21 18:57:48.242 adhocgeo[35335:2221924] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Data/Application/7ED1A8B6-412B-4196-8685-D4AF266EC257/Library/Cookies/Cookies.binarycookies
+2015-05-21 18:57:48.368 adhocgeo[35335:2221924] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-21 18:57:48.368 adhocgeo[35335:2221924] Multi-tasking -> Device: YES, App: YES
+2015-05-21 18:57:48.369 adhocgeo[35335:2221924] Unlimited access to network resources
+2015-05-21 18:57:48.371 adhocgeo[35335:2221924] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-21 18:57:48.621 adhocgeo[35335:2221924] Resetting plugins due to page load.
+2015-05-21 18:57:48.715 adhocgeo[35335:2221924] Finished load of: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Bundle/Application/DFF452E8-4606-4611-B844-2CFC43E4FC87/adhocgeo.app/www/index.html
+2015-05-21 18:57:48.742 adhocgeo[35335:2221924] Received Event: deviceready
+2015-05-21 18:57:48.742 adhocgeo[35335:2221924] app starting
+2015-05-21 18:57:48.742 adhocgeo[35335:2221924] declare
+2015-05-21 18:59:10.616 adhocgeo[35651:2223366] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Data/Application/00BE22C9-35B3-4E60-8E29-F17C32746B28/Library/Cookies/Cookies.binarycookies
+2015-05-21 18:59:10.684 adhocgeo[35651:2223366] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-21 18:59:10.685 adhocgeo[35651:2223366] Multi-tasking -> Device: YES, App: YES
+2015-05-21 18:59:10.687 adhocgeo[35651:2223366] Unlimited access to network resources
+2015-05-21 18:59:10.689 adhocgeo[35651:2223366] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-21 18:59:10.873 adhocgeo[35651:2223366] Resetting plugins due to page load.
+2015-05-21 18:59:10.936 adhocgeo[35651:2223366] Finished load of: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Bundle/Application/AB671438-7BA9-43A6-9591-38599FA86F05/adhocgeo.app/www/index.html
+2015-05-21 18:59:10.964 adhocgeo[35651:2223366] Received Event: deviceready
+2015-05-21 18:59:10.964 adhocgeo[35651:2223366] app starting
+2015-05-21 18:59:10.964 adhocgeo[35651:2223366] declare
+2015-05-21 18:59:45.367 adhocgeo[35970:2224315] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Data/Application/006B6A06-83CF-4105-8BF5-23DCE24982B6/Library/Cookies/Cookies.binarycookies
+2015-05-21 18:59:45.446 adhocgeo[35970:2224315] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-21 18:59:45.447 adhocgeo[35970:2224315] Multi-tasking -> Device: YES, App: YES
+2015-05-21 18:59:45.448 adhocgeo[35970:2224315] Unlimited access to network resources
+2015-05-21 18:59:45.450 adhocgeo[35970:2224315] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-21 18:59:45.592 adhocgeo[35970:2224315] Resetting plugins due to page load.
+2015-05-21 18:59:45.668 adhocgeo[35970:2224315] Finished load of: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Bundle/Application/EC6D2D2A-98D8-43CC-9B89-99B04E8D8981/adhocgeo.app/www/index.html
+2015-05-21 19:00:41.214 adhocgeo[36296:2225579] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Data/Application/72005B4B-D751-41DE-832E-E0443E12CC6F/Library/Cookies/Cookies.binarycookies
+2015-05-21 19:00:41.285 adhocgeo[36296:2225579] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-21 19:00:41.286 adhocgeo[36296:2225579] Multi-tasking -> Device: YES, App: YES
+2015-05-21 19:00:41.287 adhocgeo[36296:2225579] Unlimited access to network resources
+2015-05-21 19:00:41.290 adhocgeo[36296:2225579] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-21 19:00:41.463 adhocgeo[36296:2225579] Resetting plugins due to page load.
+2015-05-21 19:00:41.552 adhocgeo[36296:2225579] Finished load of: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Bundle/Application/83F36187-5469-4C4E-BD3D-F9FF30916BB9/adhocgeo.app/www/index.html
+2015-05-21 19:01:15.844 adhocgeo[36613:2226499] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Data/Application/496D26CB-0FC9-4D8F-A2A6-12C656F8B4FA/Library/Cookies/Cookies.binarycookies
+2015-05-21 19:01:15.906 adhocgeo[36613:2226499] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-21 19:01:15.907 adhocgeo[36613:2226499] Multi-tasking -> Device: YES, App: YES
+2015-05-21 19:01:15.908 adhocgeo[36613:2226499] Unlimited access to network resources
+2015-05-21 19:01:15.910 adhocgeo[36613:2226499] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-21 19:01:16.041 adhocgeo[36613:2226499] Resetting plugins due to page load.
+2015-05-21 19:01:16.106 adhocgeo[36613:2226499] Finished load of: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Bundle/Application/5046A55F-5ADB-4D38-B447-4F23FD865434/adhocgeo.app/www/index.html
+2015-05-21 19:02:06.258 adhocgeo[36975:2228078] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Data/Application/AFEA119E-0F06-4862-A08C-B871284FCEA1/Library/Cookies/Cookies.binarycookies
+2015-05-21 19:02:06.382 adhocgeo[36975:2228078] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-21 19:02:06.383 adhocgeo[36975:2228078] Multi-tasking -> Device: YES, App: YES
+2015-05-21 19:02:06.384 adhocgeo[36975:2228078] Unlimited access to network resources
+2015-05-21 19:02:06.387 adhocgeo[36975:2228078] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-21 19:02:06.559 adhocgeo[36975:2228078] Resetting plugins due to page load.
+2015-05-21 19:02:06.630 adhocgeo[36975:2228078] Finished load of: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Bundle/Application/2D091A7A-D915-48DB-AF6D-D5B4654CAD83/adhocgeo.app/www/index.html
+2015-05-21 19:02:06.662 adhocgeo[36975:2228078] Received Event: deviceready
+2015-05-21 19:02:06.662 adhocgeo[36975:2228078] app starting
+2015-05-21 19:02:06.662 adhocgeo[36975:2228078] declare
+2015-05-21 19:03:08.713 adhocgeo[37297:2229295] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Data/Application/290D3155-3D64-41B3-890D-72D08EA2F430/Library/Cookies/Cookies.binarycookies
+2015-05-21 19:03:08.788 adhocgeo[37297:2229295] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-21 19:03:08.789 adhocgeo[37297:2229295] Multi-tasking -> Device: YES, App: YES
+2015-05-21 19:03:08.790 adhocgeo[37297:2229295] Unlimited access to network resources
+2015-05-21 19:03:08.792 adhocgeo[37297:2229295] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-21 19:03:08.912 adhocgeo[37297:2229295] Resetting plugins due to page load.
+2015-05-21 19:03:08.986 adhocgeo[37297:2229295] Finished load of: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Bundle/Application/376FB320-F62D-4CAC-AD89-301CDE2EBF30/adhocgeo.app/www/index.html
+2015-05-21 19:03:09.014 adhocgeo[37297:2229295] Received Event: deviceready
+2015-05-21 19:03:09.014 adhocgeo[37297:2229295] app starting
+2015-05-21 19:03:09.014 adhocgeo[37297:2229295] declare
+2015-05-21 19:03:12.385 adhocgeo[37297:2229295] starting geo
+2015-05-21 19:03:12.385 adhocgeo[37297:2229295] Geolocation is supported!
+2015-05-21 19:03:12.385 adhocgeo[37297:2229295] checking location
+2015-05-21 19:03:12.385 adhocgeo[37297:2229295] currentPosition
+2015-05-21 19:03:14.101 adhocgeo[37297:2229295] locationManager::didFailWithError (null)
+2015-05-21 19:03:14.105 adhocgeo[37297:2229295] Error occurred. Error code: 2
+2015-05-21 19:04:48.271 adhocgeo[37611:2230757] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Data/Application/ACFCD749-E810-4C31-9BCC-4145F3A0C3E8/Library/Cookies/Cookies.binarycookies
+2015-05-21 19:04:48.340 adhocgeo[37611:2230757] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-21 19:04:48.340 adhocgeo[37611:2230757] Multi-tasking -> Device: YES, App: YES
+2015-05-21 19:04:48.342 adhocgeo[37611:2230757] Unlimited access to network resources
+2015-05-21 19:04:48.344 adhocgeo[37611:2230757] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-21 19:04:48.472 adhocgeo[37611:2230757] Resetting plugins due to page load.
+2015-05-21 19:04:48.563 adhocgeo[37611:2230757] Finished load of: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Bundle/Application/DAD0B3C3-0F56-47F2-BAE2-32AFE66F8144/adhocgeo.app/www/index.html
+2015-05-21 19:04:48.602 adhocgeo[37611:2230757] Received Event: deviceready
+2015-05-21 19:04:48.602 adhocgeo[37611:2230757] app starting
+2015-05-21 19:04:48.602 adhocgeo[37611:2230757] declare
+2015-05-21 19:04:55.434 adhocgeo[37611:2230757] starting geo
+2015-05-21 19:04:55.434 adhocgeo[37611:2230757] Geolocation is supported!
+2015-05-21 19:04:55.434 adhocgeo[37611:2230757] checking location
+2015-05-21 19:04:55.434 adhocgeo[37611:2230757] currentPosition
+2015-05-21 19:04:55.444 adhocgeo[37611:2230757] startlat 37.33069782
+2015-05-21 19:04:55.444 adhocgeo[37611:2230757] startlon -122.02962241
+2015-05-21 19:04:55.445 adhocgeo[37611:2230757] currentLat 37.33069782
+2015-05-21 19:04:55.445 adhocgeo[37611:2230757] currentLon -122.02962241
+2015-05-21 19:04:55.445 adhocgeo[37611:2230757] distance 0
+2015-05-21 19:04:56.349 adhocgeo[37611:2230757] currentLat 37.33070542
+2015-05-21 19:04:56.349 adhocgeo[37611:2230757] currentLon -122.02915124
+2015-05-21 19:04:56.349 adhocgeo[37611:2230757] distance 0.041667770998899366
+2015-05-21 19:04:59.344 adhocgeo[37611:2230757] currentLat 37.33066955
+2015-05-21 19:04:59.344 adhocgeo[37611:2230757] currentLon -122.02903319
+2015-05-21 19:04:59.345 adhocgeo[37611:2230757] distance 0.05219153163854277
+2015-05-21 19:05:02.359 adhocgeo[37611:2230757] currentLat 37.33059652
+2015-05-21 19:05:02.360 adhocgeo[37611:2230757] currentLon -122.02895228
+2015-05-21 19:05:02.360 adhocgeo[37611:2230757] distance 0.06031178221842741
+2015-05-21 19:05:05.360 adhocgeo[37611:2230757] currentLat 37.33055626
+2015-05-21 19:05:05.361 adhocgeo[37611:2230757] currentLon -122.02884282
+2015-05-21 19:05:05.361 adhocgeo[37611:2230757] distance 0.07070314616261085
+2015-05-21 19:05:08.317 adhocgeo[37611:2230757] currentLat 37.33049888
+2015-05-21 19:05:08.318 adhocgeo[37611:2230757] currentLon -122.02873696
+2015-05-21 19:05:08.318 adhocgeo[37611:2230757] distance 0.08135374716090497
+2015-05-21 19:05:11.359 adhocgeo[37611:2230757] currentLat 37.33043806
+2015-05-21 19:05:11.360 adhocgeo[37611:2230757] currentLon -122.02863337
+2015-05-21 19:05:11.360 adhocgeo[37611:2230757] distance 0.09209434859774539
+2015-05-21 19:05:14.349 adhocgeo[37611:2230757] currentLat 37.33038621
+2015-05-21 19:05:14.349 adhocgeo[37611:2230757] currentLon -122.02852904
+2015-05-21 19:05:14.349 adhocgeo[37611:2230757] distance 0.10269415250137306
+2015-05-21 19:05:15.852 adhocgeo[37611:2230757] stopping geo
+2015-05-21 19:05:15.853 adhocgeo[37611:2230757] Geolocation is supported!
+2015-05-21 19:05:15.853 adhocgeo[37611:2230757] stopping location
+2015-05-21 19:05:17.354 adhocgeo[37611:2230757] currentLat 37.33035778
+2015-05-21 19:05:17.354 adhocgeo[37611:2230757] currentLon -122.02841155
+2015-05-21 19:05:17.354 adhocgeo[37611:2230757] distance 0.11354094869732073
+2015-05-21 19:05:21.369 adhocgeo[37611:2230757] currentLat 37.33033364
+2015-05-21 19:05:21.369 adhocgeo[37611:2230757] currentLon -122.02826665
+2015-05-21 19:05:21.369 adhocgeo[37611:2230757] distance 0.12652707900209956
+2015-05-21 19:05:22.813 adhocgeo[37611:2230757] stopping geo
+2015-05-21 19:05:22.813 adhocgeo[37611:2230757] Geolocation is supported!
+2015-05-21 19:05:22.813 adhocgeo[37611:2230757] stopping location
+2015-05-21 19:05:23.404 adhocgeo[37611:2230757] stopping geo
+2015-05-21 19:05:23.404 adhocgeo[37611:2230757] Geolocation is supported!
+2015-05-21 19:05:23.404 adhocgeo[37611:2230757] stopping location
+2015-05-21 19:05:24.348 adhocgeo[37611:2230757] currentLat 37.33029063
+2015-05-21 19:05:24.349 adhocgeo[37611:2230757] currentLon -122.02815119
+2015-05-21 19:05:24.349 adhocgeo[37611:2230757] distance 0.1377351766367381
+2015-05-21 19:05:27.355 adhocgeo[37611:2230757] currentLat 37.33028179
+2015-05-21 19:05:27.355 adhocgeo[37611:2230757] currentLon -122.02799851
+2015-05-21 19:05:27.356 adhocgeo[37611:2230757] distance 0.15084836668027402
+2015-05-21 19:05:30.343 adhocgeo[37611:2230757] currentLat 37.33026634
+2015-05-21 19:05:30.343 adhocgeo[37611:2230757] currentLon -122.0278357
+2015-05-21 19:05:30.344 adhocgeo[37611:2230757] distance 0.1651001440000554
+2015-05-21 19:05:33.366 adhocgeo[37611:2230757] currentLat 37.33026014
+2015-05-21 19:05:33.367 adhocgeo[37611:2230757] currentLon -122.02768476
+2015-05-21 19:05:33.367 adhocgeo[37611:2230757] distance 0.17809926223752431
+2015-05-21 19:05:36.351 adhocgeo[37611:2230757] currentLat 37.33025232
+2015-05-21 19:05:36.352 adhocgeo[37611:2230757] currentLon -122.02753387
+2015-05-21 19:05:36.352 adhocgeo[37611:2230757] distance 0.19119095708471553
+2015-05-21 19:05:39.362 adhocgeo[37611:2230757] currentLat 37.33025023
+2015-05-21 19:05:39.363 adhocgeo[37611:2230757] currentLon -122.02738579
+2015-05-21 19:05:39.363 adhocgeo[37611:2230757] distance 0.20392142848849087
+2015-05-21 19:05:42.359 adhocgeo[37611:2230757] currentLat 37.330248
+2015-05-21 19:05:42.359 adhocgeo[37611:2230757] currentLon -122.02724276
+2015-05-21 19:05:42.359 adhocgeo[37611:2230757] distance 0.21626449639548861
+2015-05-21 19:05:45.369 adhocgeo[37611:2230757] currentLat 37.33023637
+2015-05-21 19:05:45.369 adhocgeo[37611:2230757] currentLon -122.02710112
+2015-05-21 19:05:45.369 adhocgeo[37611:2230757] distance 0.22875327779969712
+2015-05-21 19:05:48.369 adhocgeo[37611:2230757] currentLat 37.33023165
+2015-05-21 19:05:48.369 adhocgeo[37611:2230757] currentLon -122.02695957
+2015-05-21 19:05:48.369 adhocgeo[37611:2230757] distance 0.24107842636783242
+2015-05-21 19:05:51.352 adhocgeo[37611:2230757] currentLat 37.33022267
+2015-05-21 19:05:51.352 adhocgeo[37611:2230757] currentLon -122.02681114
+2015-05-21 19:05:51.352 adhocgeo[37611:2230757] distance 0.2541165958543029
+2015-05-21 19:05:54.365 adhocgeo[37611:2230757] currentLat 37.33020941
+2015-05-21 19:05:54.366 adhocgeo[37611:2230757] currentLon -122.02666981
+2015-05-21 19:05:54.366 adhocgeo[37611:2230757] distance 0.2666485529128936
+2015-05-21 19:05:57.347 adhocgeo[37611:2230757] currentLat 37.33020798
+2015-05-21 19:05:57.347 adhocgeo[37611:2230757] currentLon -122.0265316
+2015-05-21 19:05:57.347 adhocgeo[37611:2230757] distance 0.27865465178967447
+2015-05-21 19:06:00.365 adhocgeo[37611:2230757] currentLat 37.33020503
+2015-05-21 19:06:00.365 adhocgeo[37611:2230757] currentLon -122.02639735
+2015-05-21 19:06:00.365 adhocgeo[37611:2230757] distance 0.29036663910582655
+2015-05-21 19:06:03.354 adhocgeo[37611:2230757] currentLat 37.33020057
+2015-05-21 19:06:03.355 adhocgeo[37611:2230757] currentLon -122.02625808
+2015-05-21 19:06:03.355 adhocgeo[37611:2230757] distance 0.302558368111879
+2015-05-21 19:06:06.340 adhocgeo[37611:2230757] currentLat 37.33019556
+2015-05-21 19:06:06.340 adhocgeo[37611:2230757] currentLon -122.02611639
+2015-05-21 19:06:06.341 adhocgeo[37611:2230757] distance 0.31498180674656223
+2015-05-21 19:06:09.347 adhocgeo[37611:2230757] currentLat 37.33019345
+2015-05-21 19:06:09.347 adhocgeo[37611:2230757] currentLon -122.02598301
+2015-05-21 19:06:09.348 adhocgeo[37611:2230757] distance 0.32663488450708683
+2015-05-21 19:06:12.331 adhocgeo[37611:2230757] currentLat 37.33019476
+2015-05-21 19:06:12.331 adhocgeo[37611:2230757] currentLon -122.02584787
+2015-05-21 19:06:12.331 adhocgeo[37611:2230757] distance 0.33838818945743154
+2015-05-21 19:06:15.318 adhocgeo[37611:2230757] currentLat 37.33019085
+2015-05-21 19:06:15.318 adhocgeo[37611:2230757] currentLon -122.02571177
+2015-05-21 19:06:15.318 adhocgeo[37611:2230757] distance 0.35033151608883467
+2015-05-21 19:06:18.339 adhocgeo[37611:2230757] currentLat 37.33019019
+2015-05-21 19:06:18.339 adhocgeo[37611:2230757] currentLon -122.02557003
+2015-05-21 19:06:18.340 adhocgeo[37611:2230757] distance 0.36271742430745996
+2015-05-21 19:06:21.326 adhocgeo[37611:2230757] currentLat 37.33019612
+2015-05-21 19:06:21.326 adhocgeo[37611:2230757] currentLon -122.02543657
+2015-05-21 19:06:21.326 adhocgeo[37611:2230757] distance 0.37427941027873457
+2015-05-21 19:06:24.357 adhocgeo[37611:2230757] currentLat 37.33020173
+2015-05-21 19:06:24.357 adhocgeo[37611:2230757] currentLon -122.0253108
+2015-05-21 19:06:24.357 adhocgeo[37611:2230757] distance 0.38518909578703925
+2015-05-21 19:06:27.335 adhocgeo[37611:2230757] currentLat 37.3302082
+2015-05-21 19:06:27.335 adhocgeo[37611:2230757] currentLon -122.02518302
+2015-05-21 19:06:27.335 adhocgeo[37611:2230757] distance 0.3962743432901249
+2015-05-21 19:06:30.345 adhocgeo[37945:2232284] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Data/Application/4EEA6BAB-502F-424B-8807-06B4CDE5000B/Library/Cookies/Cookies.binarycookies
+2015-05-21 19:06:30.435 adhocgeo[37945:2232284] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-21 19:06:30.436 adhocgeo[37945:2232284] Multi-tasking -> Device: YES, App: YES
+2015-05-21 19:06:30.438 adhocgeo[37945:2232284] Unlimited access to network resources
+2015-05-21 19:06:30.441 adhocgeo[37945:2232284] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-21 19:06:30.623 adhocgeo[37945:2232284] Resetting plugins due to page load.
+2015-05-21 19:06:30.722 adhocgeo[37945:2232284] Finished load of: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Bundle/Application/7596627B-89F7-47D7-BF46-01609B5D5654/adhocgeo.app/www/index.html
+2015-05-21 19:06:30.759 adhocgeo[37945:2232284] Received Event: deviceready
+2015-05-21 19:06:30.760 adhocgeo[37945:2232284] app starting
+2015-05-21 19:06:30.760 adhocgeo[37945:2232284] declare
+2015-05-21 19:06:39.862 adhocgeo[37945:2232284] starting geo
+2015-05-21 19:06:39.863 adhocgeo[37945:2232284] Geolocation is supported!
+2015-05-21 19:06:39.863 adhocgeo[37945:2232284] checking location
+2015-05-21 19:06:39.863 adhocgeo[37945:2232284] currentPosition
+2015-05-21 19:06:39.872 adhocgeo[37945:2232284] startlat 37.33020881
+2015-05-21 19:06:39.872 adhocgeo[37945:2232284] startlon -122.02514114
+2015-05-21 19:06:39.873 adhocgeo[37945:2232284] currentLat 37.33020881
+2015-05-21 19:06:39.873 adhocgeo[37945:2232284] currentLon -122.02514114
+2015-05-21 19:06:39.873 adhocgeo[37945:2232284] distance 0
+2015-05-21 19:06:40.345 adhocgeo[37945:2232284] currentLat 37.33019806
+2015-05-21 19:06:40.345 adhocgeo[37945:2232284] currentLon -122.02462051
+2015-05-21 19:06:40.345 adhocgeo[37945:2232284] distance 0.04604810290481391
+2015-05-21 19:06:43.334 adhocgeo[37945:2232284] currentLat 37.33020344
+2015-05-21 19:06:43.334 adhocgeo[37945:2232284] currentLon -122.02449049
+2015-05-21 19:06:43.335 adhocgeo[37945:2232284] distance 0.05753167129870886
+2015-05-21 19:06:44.514 adhocgeo[37945:2232284] stopping geo
+2015-05-21 19:06:44.514 adhocgeo[37945:2232284] Geolocation is supported!
+2015-05-21 19:06:44.514 adhocgeo[37945:2232284] stopping location
+2015-05-21 19:06:44.514 adhocgeo[37945:2232284] navigation stopped
+2015-05-21 19:06:47.323 adhocgeo[37945:2232284] currentLat 37.33020049
+2015-05-21 19:06:47.323 adhocgeo[37945:2232284] currentLon -122.02434809
+2015-05-21 19:06:47.323 adhocgeo[37945:2232284] distance 0.07012526876383829
+2015-05-21 19:06:49.349 adhocgeo[37945:2232284] stopping geo
+2015-05-21 19:06:49.350 adhocgeo[37945:2232284] Geolocation is supported!
+2015-05-21 19:06:49.350 adhocgeo[37945:2232284] stopping location
+2015-05-21 19:06:49.350 adhocgeo[37945:2232284] navigation stopped
+2015-05-21 19:06:50.347 adhocgeo[37945:2232284] currentLat 37.33019742
+2015-05-21 19:06:50.348 adhocgeo[37945:2232284] currentLon -122.02406581
+2015-05-21 19:06:50.348 adhocgeo[37945:2232284] distance 0.09508597655207893
+2015-05-21 19:06:53.336 adhocgeo[37945:2232284] currentLat 37.33021794
+2015-05-21 19:06:53.336 adhocgeo[37945:2232284] currentLon -122.02391316
+2015-05-21 19:06:53.336 adhocgeo[37945:2232284] distance 0.10857914047047901
+2015-05-21 19:06:56.373 adhocgeo[37945:2232284] currentLat 37.33022012
+2015-05-21 19:06:56.374 adhocgeo[37945:2232284] currentLon -122.02378811
+2015-05-21 19:06:56.374 adhocgeo[37945:2232284] distance 0.1196375573468243
+2015-05-21 19:06:59.346 adhocgeo[37945:2232284] currentLat 37.33022126
+2015-05-21 19:06:59.347 adhocgeo[37945:2232284] currentLon -122.02366789
+2015-05-21 19:06:59.347 adhocgeo[37945:2232284] distance 0.13026780250572684
+2015-05-21 19:07:02.351 adhocgeo[37945:2232284] currentLat 37.33022435
+2015-05-21 19:07:02.351 adhocgeo[37945:2232284] currentLon -122.02354413
+2015-05-21 19:07:02.351 adhocgeo[37945:2232284] distance 0.14121351240916868
+2015-05-21 19:07:05.362 adhocgeo[37945:2232284] currentLat 37.33021822
+2015-05-21 19:07:05.363 adhocgeo[37945:2232284] currentLon -122.02341822
+2015-05-21 19:07:05.363 adhocgeo[37945:2232284] distance 0.1523391323574095
+2015-05-21 19:07:08.358 adhocgeo[37945:2232284] currentLat 37.33020642
+2015-05-21 19:07:08.358 adhocgeo[37945:2232284] currentLon -122.0232907
+2015-05-21 19:07:08.358 adhocgeo[37945:2232284] distance 0.1636107123956099
+2015-05-21 19:07:11.323 adhocgeo[37945:2232284] currentLat 37.33019791
+2015-05-21 19:07:11.323 adhocgeo[37945:2232284] currentLon -122.0231579
+2015-05-21 19:07:11.324 adhocgeo[37945:2232284] distance 0.17535648303033516
+2015-05-21 19:07:14.372 adhocgeo[37945:2232284] currentLat 37.33019466
+2015-05-21 19:07:14.372 adhocgeo[37945:2232284] currentLon -122.02302795
+2015-05-21 19:07:14.372 adhocgeo[37945:2232284] distance 0.18684872301218258
+2015-05-21 19:07:17.348 adhocgeo[37945:2232284] currentLat 37.33019171
+2015-05-21 19:07:17.348 adhocgeo[37945:2232284] currentLon -122.02290474
+2015-05-21 19:07:17.348 adhocgeo[37945:2232284] distance 0.19774511297894634
+2015-05-21 19:07:20.368 adhocgeo[37945:2232284] currentLat 37.33018566
+2015-05-21 19:07:20.368 adhocgeo[37945:2232284] currentLon -122.02277842
+2015-05-21 19:07:20.368 adhocgeo[37945:2232284] distance 0.20892068483452814
+2015-05-21 19:07:23.353 adhocgeo[37945:2232284] currentLat 37.33017177
+2015-05-21 19:07:23.353 adhocgeo[37945:2232284] currentLon -122.02265234
+2015-05-21 19:07:23.354 adhocgeo[37945:2232284] distance 0.2200910133060031
+2015-05-21 19:07:26.353 adhocgeo[37945:2232284] currentLat 37.33015134
+2015-05-21 19:07:26.354 adhocgeo[37945:2232284] currentLon -122.02252873
+2015-05-21 19:07:26.354 adhocgeo[37945:2232284] distance 0.23107012318281925
+2015-05-21 19:07:29.373 adhocgeo[37945:2232284] currentLat 37.33012571
+2015-05-21 19:07:29.373 adhocgeo[37945:2232284] currentLon -122.02240034
+2015-05-21 19:07:29.374 adhocgeo[37945:2232284] distance 0.24250976020122159
+2015-05-21 19:07:32.350 adhocgeo[37945:2232284] currentLat 37.33011274
+2015-05-21 19:07:32.351 adhocgeo[37945:2232284] currentLon -122.02226048
+2015-05-21 19:07:32.351 adhocgeo[37945:2232284] distance 0.2549236184756533
+2015-05-21 19:07:35.354 adhocgeo[37945:2232284] currentLat 37.33010651
+2015-05-21 19:07:35.354 adhocgeo[37945:2232284] currentLon -122.02211705
+2015-05-21 19:07:35.355 adhocgeo[37945:2232284] distance 0.2676232369357474
+2015-05-21 19:07:38.339 adhocgeo[37945:2232284] currentLat 37.33010353
+2015-05-21 19:07:38.339 adhocgeo[37945:2232284] currentLon -122.02197838
+2015-05-21 19:07:38.339 adhocgeo[37945:2232284] distance 0.2798871151889452
+2015-05-21 19:07:41.358 adhocgeo[37945:2232284] currentLat 37.33009834
+2015-05-21 19:07:41.358 adhocgeo[37945:2232284] currentLon -122.02184276
+2015-05-21 19:07:41.358 adhocgeo[37945:2232284] distance 0.2918919116835
+2015-05-21 19:07:44.338 adhocgeo[37945:2232284] currentLat 37.33009305
+2015-05-21 19:07:44.338 adhocgeo[37945:2232284] currentLon -122.02171199
+2015-05-21 19:07:44.338 adhocgeo[37945:2232284] distance 0.3034687599894183
+2015-05-21 19:07:47.357 adhocgeo[37945:2232284] currentLat 37.33008671
+2015-05-21 19:07:47.357 adhocgeo[37945:2232284] currentLon -122.02158594
+2015-05-21 19:07:47.358 adhocgeo[37945:2232284] distance 0.31463371167012705
+2015-05-21 19:07:50.354 adhocgeo[37945:2232284] currentLat 37.33007961
+2015-05-21 19:07:50.354 adhocgeo[37945:2232284] currentLon -122.0214535
+2015-05-21 19:07:50.354 adhocgeo[37945:2232284] distance 0.32636697723372404
+2015-05-21 19:07:53.349 adhocgeo[37945:2232284] currentLat 37.33007701
+2015-05-21 19:07:53.349 adhocgeo[37945:2232284] currentLon -122.02131427
+2015-05-21 19:07:53.349 adhocgeo[37945:2232284] distance 0.3386781913886225
+2015-05-21 19:07:56.358 adhocgeo[37945:2232284] currentLat 37.33006921
+2015-05-21 19:07:56.358 adhocgeo[37945:2232284] currentLon -122.02117912
+2015-05-21 19:07:56.358 adhocgeo[37945:2232284] distance 0.35065430001240916
+2015-05-21 19:07:59.325 adhocgeo[37945:2232284] currentLat 37.33006418
+2015-05-21 19:07:59.325 adhocgeo[37945:2232284] currentLon -122.02104771
+2015-05-21 19:07:59.325 adhocgeo[37945:2232284] distance 0.36228658303478184
+2015-05-21 19:08:02.366 adhocgeo[37945:2232284] currentLat 37.33004483
+2015-05-21 19:08:02.367 adhocgeo[37945:2232284] currentLon -122.02092215
+2015-05-21 19:08:02.367 adhocgeo[37945:2232284] distance 0.3734765325552026
+2015-05-21 19:08:05.340 adhocgeo[37945:2232284] currentLat 37.33001872
+2015-05-21 19:08:05.341 adhocgeo[37945:2232284] currentLon -122.0207926
+2015-05-21 19:08:05.341 adhocgeo[37945:2232284] distance 0.38506624229358594
+2015-05-21 19:08:08.364 adhocgeo[37945:2232284] currentLat 37.32998178
+2015-05-21 19:08:08.364 adhocgeo[37945:2232284] currentLon -122.0206589
+2015-05-21 19:08:08.364 adhocgeo[37945:2232284] distance 0.3971103733699464
+2015-05-21 19:08:11.341 adhocgeo[37945:2232284] currentLat 37.32994172
+2015-05-21 19:08:11.341 adhocgeo[37945:2232284] currentLon -122.02053031
+2015-05-21 19:08:11.341 adhocgeo[37945:2232284] distance 0.4087571798647499
+2015-05-21 19:08:14.372 adhocgeo[37945:2232284] currentLat 37.32990718
+2015-05-21 19:08:14.373 adhocgeo[37945:2232284] currentLon -122.02041136
+2015-05-21 19:08:14.373 adhocgeo[37945:2232284] distance 0.41953696613911534
+2015-05-21 19:08:17.352 adhocgeo[37945:2232284] currentLat 37.32987133
+2015-05-21 19:08:17.352 adhocgeo[37945:2232284] currentLon -122.0202987
+2015-05-21 19:08:17.352 adhocgeo[37945:2232284] distance 0.4297967035281907
+2015-05-21 19:08:20.335 adhocgeo[37945:2232284] currentLat 37.32984184
+2015-05-21 19:08:20.335 adhocgeo[37945:2232284] currentLon -122.02018095
+2015-05-21 19:08:20.335 adhocgeo[37945:2232284] distance 0.4404607792627015
+2015-05-21 19:08:23.055 adhocgeo[38272:2234006] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Data/Application/279619FE-6895-4F9A-AEE6-66F7655AA7C3/Library/Cookies/Cookies.binarycookies
+2015-05-21 19:08:23.129 adhocgeo[38272:2234006] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-21 19:08:23.130 adhocgeo[38272:2234006] Multi-tasking -> Device: YES, App: YES
+2015-05-21 19:08:23.132 adhocgeo[38272:2234006] Unlimited access to network resources
+2015-05-21 19:08:23.134 adhocgeo[38272:2234006] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-21 19:08:23.315 adhocgeo[38272:2234006] Resetting plugins due to page load.
+2015-05-21 19:08:23.420 adhocgeo[38272:2234006] Finished load of: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Bundle/Application/1E44D6AD-4736-493F-9A83-3025CADDE92E/adhocgeo.app/www/index.html
+2015-05-21 19:08:23.464 adhocgeo[38272:2234006] Received Event: deviceready
+2015-05-21 19:08:23.464 adhocgeo[38272:2234006] app starting
+2015-05-21 19:08:23.464 adhocgeo[38272:2234006] declare
+2015-05-21 19:08:28.441 adhocgeo[38272:2234006] starting geo
+2015-05-21 19:08:28.441 adhocgeo[38272:2234006] Geolocation is supported!
+2015-05-21 19:08:28.441 adhocgeo[38272:2234006] checking location
+2015-05-21 19:08:28.441 adhocgeo[38272:2234006] currentPosition
+2015-05-21 19:08:28.451 adhocgeo[38272:2234006] startlat 37.32983646
+2015-05-21 19:08:28.452 adhocgeo[38272:2234006] startlon -122.02014032
+2015-05-21 19:08:28.452 adhocgeo[38272:2234006] currentLat 37.32983646
+2015-05-21 19:08:28.452 adhocgeo[38272:2234006] currentLon -122.02014032
+2015-05-21 19:08:28.452 adhocgeo[38272:2234006] distance 0
+2015-05-21 19:08:29.376 adhocgeo[38272:2234006] currentLat 37.32973394
+2015-05-21 19:08:29.377 adhocgeo[38272:2234006] currentLon -122.01987865
+2015-05-21 19:08:29.377 adhocgeo[38272:2234006] distance 0.025792212676045916
+2015-05-21 19:08:32.353 adhocgeo[38272:2234006] currentLat 37.32964523
+2015-05-21 19:08:32.353 adhocgeo[38272:2234006] currentLon -122.01984995
+2015-05-21 19:08:32.354 adhocgeo[38272:2234006] distance 0.0333360884381489
+2015-05-21 19:08:33.382 adhocgeo[38272:2234006] stopping geo
+2015-05-21 19:08:33.382 adhocgeo[38272:2234006] Geolocation is supported!
+2015-05-21 19:08:33.382 adhocgeo[38272:2234006] stopping location
+2015-05-21 19:08:33.383 adhocgeo[38272:2234006] navigation stopped
+2015-05-21 19:10:55.171 adhocgeo[38272:2234006] starting geo
+2015-05-21 19:10:55.171 adhocgeo[38272:2234006] Geolocation is supported!
+2015-05-21 19:10:55.171 adhocgeo[38272:2234006] checking location
+2015-05-21 19:10:55.171 adhocgeo[38272:2234006] currentPosition
+2015-05-21 19:10:55.175 adhocgeo[38272:2234006] currentLat 37.32964523
+2015-05-21 19:10:55.176 adhocgeo[38272:2234006] currentLon -122.01984995
+2015-05-21 19:10:55.176 adhocgeo[38272:2234006] distance 0.0333360884381489
+2015-05-21 19:10:55.176 adhocgeo[38272:2234006] startlat 37.32961455
+2015-05-21 19:10:55.176 adhocgeo[38272:2234006] startlon -122.01984354
+2015-05-21 19:10:55.177 adhocgeo[38272:2234006] currentLat 37.32961455
+2015-05-21 19:10:55.177 adhocgeo[38272:2234006] currentLon -122.01984354
+2015-05-21 19:10:55.177 adhocgeo[38272:2234006] distance 0
+2015-05-21 19:10:55.339 adhocgeo[38272:2234006] currentLat 37.32492634
+2015-05-21 19:10:55.339 adhocgeo[38272:2234006] currentLon -122.01973227
+2015-05-21 19:10:55.339 adhocgeo[38272:2234006] distance 0.521397999908624
+2015-05-21 19:10:58.365 adhocgeo[38272:2234006] currentLat 37.32482594
+2015-05-21 19:10:58.365 adhocgeo[38272:2234006] currentLon -122.01972075
+2015-05-21 19:10:58.365 adhocgeo[38272:2234006] distance 0.5325798161823321
+2015-05-21 19:11:01.342 adhocgeo[38272:2234006] currentLat 37.32472321
+2015-05-21 19:11:01.342 adhocgeo[38272:2234006] currentLon -122.01971138
+2015-05-21 19:11:01.342 adhocgeo[38272:2234006] distance 0.5440177129668061
+2015-05-21 19:11:02.502 adhocgeo[38272:2234006] stopping geo
+2015-05-21 19:11:02.502 adhocgeo[38272:2234006] Geolocation is supported!
+2015-05-21 19:11:02.502 adhocgeo[38272:2234006] stopping location
+2015-05-21 19:11:02.503 adhocgeo[38272:2234006] navigation stopped
+2015-05-21 19:15:27.370 adhocgeo[38632:2237347] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Data/Application/9F2304BC-A34D-4E9E-9DD2-80862602A293/Library/Cookies/Cookies.binarycookies
+2015-05-21 19:15:27.442 adhocgeo[38632:2237347] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-21 19:15:27.443 adhocgeo[38632:2237347] Multi-tasking -> Device: YES, App: YES
+2015-05-21 19:15:27.444 adhocgeo[38632:2237347] Unlimited access to network resources
+2015-05-21 19:15:27.447 adhocgeo[38632:2237347] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-21 19:15:27.587 adhocgeo[38632:2237347] Resetting plugins due to page load.
+2015-05-21 19:15:27.663 adhocgeo[38632:2237347] Finished load of: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Bundle/Application/E5F4BA89-FAB8-4C9B-A52F-9A0ED7BE105F/adhocgeo.app/www/index.html
+2015-05-21 19:15:27.696 adhocgeo[38632:2237347] Received Event: deviceready
+2015-05-21 19:15:27.696 adhocgeo[38632:2237347] app starting
+2015-05-21 19:15:27.697 adhocgeo[38632:2237347] declare
+2015-05-21 19:15:32.330 adhocgeo[38632:2237347] pauzing geo
+2015-05-21 19:15:32.330 adhocgeo[38632:2237347] Geolocation is supported!
+2015-05-21 19:15:32.331 adhocgeo[38632:2237347] pauzing location
+2015-05-21 19:15:32.331 adhocgeo[38632:2237347] navigation pauzed
+2015-05-21 19:15:34.101 adhocgeo[38632:2237347] resuming geo
+2015-05-21 19:15:34.101 adhocgeo[38632:2237347] Geolocation is supported!
+2015-05-21 19:15:34.101 adhocgeo[38632:2237347] resuming location
+2015-05-21 19:15:34.101 adhocgeo[38632:2237347] navigation resumed
+2015-05-21 19:15:40.895 adhocgeo[38632:2237347] pauzing geo
+2015-05-21 19:15:40.895 adhocgeo[38632:2237347] Geolocation is supported!
+2015-05-21 19:15:40.895 adhocgeo[38632:2237347] pauzing location
+2015-05-21 19:15:40.895 adhocgeo[38632:2237347] navigation pauzed
+2015-05-21 19:15:42.773 adhocgeo[38632:2237347] resuming geo
+2015-05-21 19:15:42.773 adhocgeo[38632:2237347] Geolocation is supported!
+2015-05-21 19:15:42.773 adhocgeo[38632:2237347] resuming location
+2015-05-21 19:15:42.773 adhocgeo[38632:2237347] navigation resumed
+2015-05-21 19:20:32.404 adhocgeo[39045:2243388] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Data/Application/934D3393-E927-43FA-BDED-84885062CDD3/Library/Cookies/Cookies.binarycookies
+2015-05-21 19:20:32.525 adhocgeo[39045:2243388] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-21 19:20:32.526 adhocgeo[39045:2243388] Multi-tasking -> Device: YES, App: YES
+2015-05-21 19:20:32.527 adhocgeo[39045:2243388] Unlimited access to network resources
+2015-05-21 19:20:32.531 adhocgeo[39045:2243388] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-21 19:20:32.701 adhocgeo[39045:2243388] [CDVTimer][statusbar] 84.632039ms
+2015-05-21 19:20:32.702 adhocgeo[39045:2243388] [CDVTimer][TotalPluginStartup] 84.789991ms
+2015-05-21 19:20:32.807 adhocgeo[39045:2243388] Resetting plugins due to page load.
+2015-05-21 19:20:32.894 adhocgeo[39045:2243388] Finished load of: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Bundle/Application/769AA8B7-C55D-4C4F-A2D3-DC2389289E00/adhocgeo.app/www/index.html
+2015-05-21 19:20:32.926 adhocgeo[39045:2243388] Received Event: deviceready
+2015-05-21 19:20:32.926 adhocgeo[39045:2243388] app starting
+2015-05-21 19:20:32.926 adhocgeo[39045:2243388] declare
+2015-05-21 19:56:57.849 adhocgeo[39443:2249481] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Data/Application/D52938DA-EF1E-49B8-9AB0-D2083A0B690D/Library/Cookies/Cookies.binarycookies
+2015-05-21 19:56:57.901 adhocgeo[39443:2249481] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-21 19:56:57.901 adhocgeo[39443:2249481] Multi-tasking -> Device: YES, App: YES
+2015-05-21 19:56:57.903 adhocgeo[39443:2249481] Unlimited access to network resources
+2015-05-21 19:56:57.905 adhocgeo[39443:2249481] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-21 19:56:58.008 adhocgeo[39443:2249481] [CDVTimer][statusbar] 36.598027ms
+2015-05-21 19:56:58.009 adhocgeo[39443:2249481] [CDVTimer][keyboard] 0.047982ms
+2015-05-21 19:56:58.009 adhocgeo[39443:2249481] [CDVTimer][TotalPluginStartup] 37.891030ms
+2015-05-21 19:56:58.087 adhocgeo[39443:2249481] Resetting plugins due to page load.
+2015-05-21 19:56:58.188 adhocgeo[39443:2249481] Finished load of: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Bundle/Application/616C9A74-C432-4E33-BFB3-F982D4FA6EAF/adhocgeo.app/www/index.html
+2015-05-21 19:56:58.233 adhocgeo[39443:2249481] Received Event: deviceready
+2015-05-21 19:56:58.233 adhocgeo[39443:2249481] app starting
+2015-05-21 19:56:58.233 adhocgeo[39443:2249481] declare
+2015-05-21 19:57:08.348 adhocgeo[39443:2249481] starting geo
+2015-05-21 19:57:08.348 adhocgeo[39443:2249481] checking location
+2015-05-21 19:57:08.348 adhocgeo[39443:2249481] currentPosition
+2015-05-21 19:57:09.278 adhocgeo[39443:2249481] startlat 37.32597005
+2015-05-21 19:57:09.278 adhocgeo[39443:2249481] startlon -122.01973252
+2015-05-21 19:57:09.279 adhocgeo[39443:2249481] currentLat 37.32597005
+2015-05-21 19:57:09.279 adhocgeo[39443:2249481] currentLon -122.01973252
+2015-05-21 19:57:09.279 adhocgeo[39443:2249481] distance 0
+2015-05-21 19:57:12.284 adhocgeo[39443:2249481] currentLat 37.32583972
+2015-05-21 19:57:12.284 adhocgeo[39443:2249481] currentLon -122.01971543
+2015-05-21 19:57:12.284 adhocgeo[39443:2249481] distance 0.014570607382377582
+2015-05-21 19:57:13.484 adhocgeo[39443:2249481] stopping geo
+2015-05-21 19:57:13.485 adhocgeo[39443:2249481] stopping location
+2015-05-21 19:57:13.485 adhocgeo[39443:2249481] navigation stopped
+2015-05-21 19:57:16.024 adhocgeo[39443:2249481] resuming geo
+2015-05-21 19:57:16.024 adhocgeo[39443:2249481] resuming location
+2015-05-21 19:57:16.024 adhocgeo[39443:2249481] navigation resumed
+2015-05-21 19:57:16.909 adhocgeo[39443:2249481] pauzing geo
+2015-05-21 19:57:16.909 adhocgeo[39443:2249481] pauzing location
+2015-05-21 19:57:16.910 adhocgeo[39443:2249481] navigation pauzed

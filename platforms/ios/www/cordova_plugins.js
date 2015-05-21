@@ -98,6 +98,20 @@ module.exports = [
             "cordova.InAppBrowser.open",
             "window.open"
         ]
+    },
+    {
+        "file": "plugins/org.apache.cordova.statusbar/www/statusbar.js",
+        "id": "org.apache.cordova.statusbar.statusbar",
+        "clobbers": [
+            "window.StatusBar"
+        ]
+    },
+    {
+        "file": "plugins/com.ionic.keyboard/www/keyboard.js",
+        "id": "com.ionic.keyboard.keyboard",
+        "clobbers": [
+            "cordova.plugins.Keyboard"
+        ]
     }
 ];
 module.exports.metadata = 
@@ -110,7 +124,9 @@ module.exports.metadata =
     "cordova-plugin-dialogs": "1.1.0",
     "cordova-plugin-geolocation": "1.0.0",
     "cordova-plugin-inappbrowser": "1.0.0",
-    "cordova-plugin-whitelist": "1.0.0"
+    "cordova-plugin-whitelist": "1.0.0",
+    "org.apache.cordova.statusbar": "0.1.10",
+    "com.ionic.keyboard": "1.0.4"
 }
 // BOTTOM OF METADATA
 });

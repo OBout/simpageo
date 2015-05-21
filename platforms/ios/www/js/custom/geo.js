@@ -1,8 +1,8 @@
 var startPos;
 var distance;
+var geowatcher;
 geo.hasgeo = function(){
 	if (navigator.geolocation) {
-  		db('Geolocation is supported!');
   		return true;
 	}
 	else {
@@ -35,7 +35,14 @@ geo.measureDistance = function(){
 
 };
 geo.stopMeasuring = function(){
-	navigator.geolocation.clearWatch();
+	navigator.geolocation.clearWatch(geowatcher);
+	db("navigation stopped");
+};
+geo.pauze = function(){
+	db("navigation pauzed");
+};
+geo.resume = function(){
+	db("navigation resumed");
 };
 geo.currentPosition = function(){
 	db("currentPosition");
@@ -55,7 +62,7 @@ geo.currentPosition = function(){
 	      //   3: timed out
 	    });
 
-	    navigator.geolocation.watchPosition(function(position) {
+	    geowatcher = navigator.geolocation.watchPosition(function(position) {
 	      var currentLat = position.coords.latitude;
 	      var currentLon = position.coords.longitude;
 	      db("currentLat " + currentLat);
