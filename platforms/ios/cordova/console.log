@@ -1,0 +1,45 @@
+2015-05-21 14:55:44.127 adhocgeo[31861:2177677] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Data/Application/C70D499D-4818-44BF-90BB-8B578F38CFED/Library/Cookies/Cookies.binarycookies
+2015-05-21 14:55:44.504 adhocgeo[31861:2177677] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-21 14:55:44.505 adhocgeo[31861:2177677] Multi-tasking -> Device: YES, App: YES
+2015-05-21 14:55:44.509 adhocgeo[31861:2177677] Unlimited access to network resources
+2015-05-21 14:55:44.517 adhocgeo[31861:2177677] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-21 14:55:45.501 adhocgeo[31861:2177677] Resetting plugins due to page load.
+2015-05-21 14:55:45.621 adhocgeo[31861:2177677] Finished load of: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Bundle/Application/D98B6C37-A137-44E2-87CD-C3757402C88C/adhocgeo.app/www/index.html
+2015-05-21 14:56:24.631 adhocgeo[32186:2178742] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Data/Application/2E64B5C3-6FDB-43C4-8A12-E8B64BD7B59B/Library/Cookies/Cookies.binarycookies
+2015-05-21 14:56:24.693 adhocgeo[32186:2178742] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-21 14:56:24.694 adhocgeo[32186:2178742] Multi-tasking -> Device: YES, App: YES
+2015-05-21 14:56:24.695 adhocgeo[32186:2178742] Unlimited access to network resources
+2015-05-21 14:56:24.697 adhocgeo[32186:2178742] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-21 14:56:24.813 adhocgeo[32186:2178742] Resetting plugins due to page load.
+2015-05-21 14:56:25.033 adhocgeo[32186:2178742] Finished load of: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Bundle/Application/3B8C310A-BE28-4D1C-BF01-A5A75FA7D985/adhocgeo.app/www/index.html
+2015-05-21 15:00:43.799 adhocgeo[32547:2181549] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Data/Application/196C5CA0-5159-4222-B51F-52AF301F8C40/Library/Cookies/Cookies.binarycookies
+2015-05-21 15:00:43.858 adhocgeo[32547:2181549] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-21 15:00:43.858 adhocgeo[32547:2181549] Multi-tasking -> Device: YES, App: YES
+2015-05-21 15:00:43.860 adhocgeo[32547:2181549] Unlimited access to network resources
+2015-05-21 15:00:43.862 adhocgeo[32547:2181549] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-21 15:00:43.983 adhocgeo[32547:2181549] Resetting plugins due to page load.
+2015-05-21 15:00:44.060 adhocgeo[32547:2181549] Finished load of: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Bundle/Application/E7C0BDC0-DC12-48B9-824F-9E67DDE2FD9E/adhocgeo.app/www/index.html
+2015-05-21 15:00:44.114 adhocgeo[32547:2181549] Received Event: deviceready
+2015-05-21 15:00:44.114 adhocgeo[32547:2181549] app starting
+2015-05-21 15:00:44.114 adhocgeo[32547:2181549] declare

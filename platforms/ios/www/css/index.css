@@ -1,0 +1,11 @@
+.geo_title {
+    display: inherit;
+    float: left;
+    margin-left: 43px;
+    margin-top: 0px;
+}
+.geo_button_center {
+    width: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
