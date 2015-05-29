@@ -576,3 +576,40 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-05-21 19:57:16.909 adhocgeo[39443:2249481] pauzing geo
 2015-05-21 19:57:16.909 adhocgeo[39443:2249481] pauzing location
 2015-05-21 19:57:16.910 adhocgeo[39443:2249481] navigation pauzed
+2015-05-29 11:06:16.962 adhocgeo[34352:751745] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Data/Application/68727A58-3B64-42F6-85CA-FDFE5B54284B/Library/Cookies/Cookies.binarycookies
+2015-05-29 11:06:17.258 adhocgeo[34352:751745] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-29 11:06:17.259 adhocgeo[34352:751745] Multi-tasking -> Device: YES, App: YES
+2015-05-29 11:06:17.278 adhocgeo[34352:751745] Unlimited access to network resources
+2015-05-29 11:06:17.285 adhocgeo[34352:751745] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-29 11:06:17.785 adhocgeo[34352:751745] [CDVTimer][statusbar] 129.777968ms
+2015-05-29 11:06:17.785 adhocgeo[34352:751745] [CDVTimer][keyboard] 0.061989ms
+2015-05-29 11:06:17.785 adhocgeo[34352:751745] [CDVTimer][TotalPluginStartup] 130.120993ms
+2015-05-29 11:06:17.903 adhocgeo[34352:751745] Resetting plugins due to page load.
+2015-05-29 11:06:18.079 adhocgeo[34352:751745] Finished load of: file:///Users/oscar/Library/Developer/CoreSimulator/Devices/6AA8899E-8CB1-4416-995A-38D549763C98/data/Containers/Bundle/Application/EB47F130-2F58-418A-BC85-B220D058EBA4/adhocgeo.app/www/index.html
+2015-05-29 11:06:18.151 adhocgeo[34352:751745] Received Event: deviceready
+2015-05-29 11:06:18.151 adhocgeo[34352:751745] app starting
+2015-05-29 11:06:18.151 adhocgeo[34352:751745] declare
+2015-05-29 11:08:54.097 adhocgeo[34352:751745] starting geo
+2015-05-29 11:08:54.097 adhocgeo[34352:751745] checking location
+2015-05-29 11:08:54.097 adhocgeo[34352:751745] currentPosition
+2015-05-29 11:08:54.302 adhocgeo[34352:751745] startlat 37.33020021
+2015-05-29 11:08:54.302 adhocgeo[34352:751745] startlon -122.02484108
+2015-05-29 11:08:54.303 adhocgeo[34352:751745] currentLat 37.33020021
+2015-05-29 11:08:54.303 adhocgeo[34352:751745] currentLon -122.02484108
+2015-05-29 11:08:54.303 adhocgeo[34352:751745] distance 0
+2015-05-29 11:08:57.306 adhocgeo[34352:751745] currentLat 37.33019702
+2015-05-29 11:08:57.306 adhocgeo[34352:751745] currentLon -122.02471061
+2015-05-29 11:08:57.306 adhocgeo[34352:751745] distance 0.011541229661078033
+2015-05-29 11:09:00.311 adhocgeo[34352:751745] currentLat 37.33020111
+2015-05-29 11:09:00.311 adhocgeo[34352:751745] currentLon -122.02457648
+2015-05-29 11:09:00.312 adhocgeo[34352:751745] distance 0.023395374867248617
+2015-05-29 11:09:01.023 adhocgeo[34352:751745] stopping geo
+2015-05-29 11:09:01.023 adhocgeo[34352:751745] stopping location
+2015-05-29 11:09:01.023 adhocgeo[34352:751745] navigation stopped

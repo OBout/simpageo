@@ -48,10 +48,10 @@
     <allow-intent href="itms-apps:*" />
     <name>adhocgeo</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        A sample Ad Hoc geolocation application.
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="dev@oscoweb.com" href="http://oscoweb.com">
+        Oscoweb
     </author>
     <content src="index.html" />
     <access origin="*" />
