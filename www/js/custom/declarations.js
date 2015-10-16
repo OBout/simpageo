@@ -32,4 +32,9 @@ geo.declare = function(){
 			geo.resume();
 		}
 	});
+	if (geo.hasgeo) {
+		db("geo enabled");
+	} else {
+		db("geo disabled");
+	}
 };

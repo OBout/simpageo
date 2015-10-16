@@ -42,4 +42,9 @@ var app = {
     }
 };
 
-app.initialize();
+//app.initialize();
+
+$( document ).ready(function() {
+    console.log( "ready!" );
+    //geo.startapp();
+});

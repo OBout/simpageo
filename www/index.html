@@ -26,7 +26,7 @@ under the License.
         * Disables use of inline scripts in order to mitigate risk of XSS vulnerabilities. To change this:
         * Enable inline JS: add 'unsafe-inline' to default-src
         -->
-        <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
+
         <meta name="format-detection" content="telephone=no">
         <meta name="msapplication-tap-highlight" content="no">
         <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
@@ -36,7 +36,7 @@ under the License.
         <link rel="stylesheet" href="bootstrap/css/bootstrap-theme.min.css">
         <!-- custom theme -->
         <link rel="stylesheet" type="text/css" href="css/index.css">
-         <script type="text/javascript" src="cordova.js"></script>
+        <!-- <script type="text/javascript" src="cordova.js"></script>
         <!-- Latest compiled and minified JavaScript -->
        
         <script type="text/javascript" src="js/vendor/jquery-2.1.4.js"></script>
@@ -46,6 +46,8 @@ under the License.
         <script type="text/javascript" src="js/custom/declarations.js"></script>
         <script type="text/javascript" src="js/custom/startup.js"></script>
         <script type="text/javascript" src="js/custom/index.js"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB62DsrfmLf9hTdIr9gbnUAzNdKeDR63YA&callback=geo.startapp"
+        async defer></script>
         <title>AdHoc Geo</title>
     </head>
     <body>

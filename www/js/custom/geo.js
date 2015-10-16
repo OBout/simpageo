@@ -26,13 +26,8 @@ geo.calculateDistance = function(lat1, lon1, lat2, lon2) {
   var d = R * c;
   return d;
 };
-/*
-Number.prototype.toRad = function() {
-  return this * Math.PI / 180;
-}​
-*/
 geo.measureDistance = function(){
-
+	db("distance: " + distance);
 };
 geo.stopMeasuring = function(){
 	navigator.geolocation.clearWatch(geowatcher);
@@ -48,18 +43,19 @@ geo.currentPosition = function(){
 	db("currentPosition");
 	 if (navigator.geolocation) {
 	    navigator.geolocation.getCurrentPosition(function(position) {
-	      startPos = position;
-	      var startLat = startPos.coords.latitude;
-	      var startLon = startPos.coords.longitude;
-	      db("startlat " + startLat);
-	      db("startlon " + startLon);
+	    	db("starting to find current location");
+			startPos = position;
+			var startLat = startPos.coords.latitude;
+			var startLon = startPos.coords.longitude;
+			db("startlat " + startLat);
+			db("startlon " + startLon);
 	    }, function(error) {
-	      db("Error occurred. Error code: " + error.code);
-	      // error.code can be:
-	      //   0: unknown error
-	      //   1: permission denied
-	      //   2: position unavailable (error response from locaton provider)
-	      //   3: timed out
+			db("Error occurred. Error code: " + error.code);
+			// error.code can be:
+			//   0: unknown error
+			//   1: permission denied
+			//   2: position unavailable (error response from locaton provider)
+			//   3: timed out
 	    });
 
 	    geowatcher = navigator.geolocation.watchPosition(function(position) {
